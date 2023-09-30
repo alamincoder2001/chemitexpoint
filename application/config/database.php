@@ -8,13 +8,13 @@ $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	
-  	'username' => 'dewbxcak_chemitexpoint',
-    'password' => 'TW!_(@5Kx9#3',
+  	'username' => 'root',
+    'password' => '',
   	'database' => 'dewbxcak_chemitexpoint',
-	
-// 	'username' => 'root',
-// 	'password' => '',
-// 	'database' => 'chemitex',
+
+	// 'username' => 'dewbxcak_chemitexpoint',
+    // 'password' => 'TW!_(@5Kx9#3',
+  	// 'database' => 'dewbxcak_chemitexpoint',
 		
 
 	'dbdriver' => 'mysqli',
